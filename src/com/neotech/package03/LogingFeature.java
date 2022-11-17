@@ -6,5 +6,7 @@ public class LogingFeature {
 
 		System.out.println("working on a login feature");
 
+		System.out.println("Adding some more");
+
 	}
 }
