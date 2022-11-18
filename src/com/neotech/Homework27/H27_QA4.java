@@ -24,7 +24,7 @@ public class H27_QA4 {
 
 		System.out.println(names);
 
-		System.out.println("-----Iterating the ArrayList with a for-each loop---");
+		System.out.println("--------");
 
 		for (String name : names) {
 			System.out.println(name);
